@@ -78,7 +78,7 @@
     "gulp-watch": "^5.0.0",
     "jest": "^22.0.0",
     "module-alias": "^2.0.2",
-    "rimraf": "^2.6.2",
+    "rimraf": "^3.0.0",
     "run-sequence": "^2.2.0"
   },
   "dependencies": {
